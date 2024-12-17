@@ -1,0 +1,14 @@
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\bin\Debug\net9.0\PatikaDatetimeAndMathMetotlari.exe
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\bin\Debug\net9.0\PatikaDatetimeAndMathMetotlari.deps.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\bin\Debug\net9.0\PatikaDatetimeAndMathMetotlari.runtimeconfig.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\bin\Debug\net9.0\PatikaDatetimeAndMathMetotlari.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\bin\Debug\net9.0\PatikaDatetimeAndMathMetotlari.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\obj\Debug\net9.0\PatikaDatetimeAndMathMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\obj\Debug\net9.0\PatikaDatetimeAndMathMetotlari.AssemblyInfoInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\obj\Debug\net9.0\PatikaDatetimeAndMathMetotlari.AssemblyInfo.cs
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\obj\Debug\net9.0\PatikaDatetimeAndMathMetotlari.csproj.CoreCompileInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\obj\Debug\net9.0\PatikaDatetimeAndMathMetotlari.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\obj\Debug\net9.0\refint\PatikaDatetimeAndMathMetotlari.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\obj\Debug\net9.0\PatikaDatetimeAndMathMetotlari.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\obj\Debug\net9.0\PatikaDatetimeAndMathMetotlari.genruntimeconfig.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaDatetimeAndMathMetotlari\obj\Debug\net9.0\ref\PatikaDatetimeAndMathMetotlari.dll
